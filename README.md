@@ -1,4 +1,4 @@
-# Backend showcase with JsonPlaceholder
+ # Backend showcase with JsonPlaceholder
 
 [![Tests](https://github.com/karpo666/rust-backend-showcase-jsonplaceholder/actions/workflows/tests.yml/badge.svg)](https://github.com/karpo666/rust-backend-showcase-jsonplaceholder/actions/workflows/tests.yml)
 
